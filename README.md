@@ -14,7 +14,7 @@ In this project, I will play a "full-stack" data scientist for a financial insti
 
 The above tasks require a sophisticated level of both technical and business knowledge. Based on that, I will first complete a simpler version of the goals to build upon the skills developed in this stage to achieve the desired outcome:
 
-- [ ] Simulate transactions over a fixed period using a transaction data simulator.
+- [x] Simulate transactions over a fixed period using a transaction data simulator.
 
 - [ ] Use the simulated data to train and build a machine learning model to predict fraudulent transactions.
 
